@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Extra Life Bot specific
+extralife_config.json
+config.json
+*.log
+
+# Discord tokens (security!)
+.env
+token.txt
