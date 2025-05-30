@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Extra Life Discord Bot
 Automatically post beautiful Discord embeds when someone donates to your Extra Life campaign!
 Limited support available - https://discord.gg/PQHq3m8Suq
@@ -191,7 +190,3 @@ MIT License - Feel free to modify and share!
 
 Happy fundraising! 🎮❤️
 Built with ❤️ for the Extra Life community
-=======
-# DiscordBots
-Discord Bots I have created and use
->>>>>>> 00b944f8eca7954fcf1345dd4b5aca0085065c94
