@@ -1,6 +1,7 @@
 Extra Life Discord Bot
 Automatically post beautiful Discord embeds when someone donates to your Extra Life campaign!
 Limited support available - https://discord.gg/PQHq3m8Suq
+Feel Generous, want to show appreciation? 💰 https://www.extra-life.org/participant/551698
 
 🎮 Features
 
